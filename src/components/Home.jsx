@@ -19,7 +19,7 @@ const Home = () => {
       </Title>
       <Row>
         <Col span={12}>
-          <Statistic title="Total Cryptocurrencies" value={globalStats.total} />
+          <Statistic title="Total Cryptocurrencies" value={globalStats.Cryptocurrencies} />
         </Col>
         <Col span={12}>
           <Statistic
